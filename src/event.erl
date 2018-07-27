@@ -1,5 +1,4 @@
 -module(event).
-
 -compile(export_all).
 
 -record(state, {server,
